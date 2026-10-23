@@ -1,0 +1,17 @@
+{
+  "tool": "will-this-fit",
+  "version": 1,
+  "plans": [
+    {
+      "name": "Hall shelf",
+      "unit": "cm",
+      "sw": 90,
+      "sh": 40,
+      "sd": 35,
+      "iw": 32,
+      "ih": 25,
+      "id": 38,
+      "tolerance": 1
+    }
+  ]
+}
